@@ -22,3 +22,26 @@ Python présente de nombreuses caractéristiques intéressantes :
 - 🌍 **Le langage de programmation le plus utilisé au monde**
 
 Toutes ces caractéristiques font que Python est désormais enseigné dans de nombreuses formations, du lycée à l’enseignement supérieur. 
+
+# Conseils pour l’apprentissage de Python
+Comme tout apprentissage, apprendre la programmation Python prend du temps et nécessite de pratiquer. Contrairement à d’autres activités scientifiques expérimentales, programmer en Python ne nécessite pas de matériel coûteux, juste un ordinateur et éventuellement une connexion internet.
+Par ailleurs, Python est un programme informatique qui par définition ne se fatigue pas, est patient et toujours disponible.
+N’hésitez donc pas à pratiquer, pratiquer et pratiquer encore.
+
+# Introduction au shell
+Un shell est un interpréteur de commandes interactif permettant d’interagir avec l’ordinateur. On utilisera le shell
+pour lancer l’interpréteur Python.
+Pour approfondir la notion de shell, vous pouvez consulter les pages Wikipedia :
+• du shell Unix fonctionnant sous Mac OS X et Linux ;
+• du shell PowerShell fonctionnant sous Windows.
+Un shell possède toujours une invite de commande, c’est-à-dire un message qui s’affiche avant l’endroit où on entre
+des commandes. Dans tout cet ouvrage, cette invite est représentée par convention par le symbole dollar $ (qui n’a rien
+à avoir ici avec la monnaie), et ce quel que soit le système d’exploitation.
+Par exemple, si on vous demande de lancer l’instruction suivante :
+$ python
+il faudra taper seulement python sans le $ ni l’espace après le $.
+
+#  Commentaires
+Dans un script, tout ce qui suit le caractère # est ignoré par Python jusqu’à la fin de la ligne et est considéré comme
+un commentaire.
+Les commentaires doivent expliquer votre code dans un langage humain.
